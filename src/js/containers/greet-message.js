@@ -3,9 +3,9 @@ import {connect} from 'react-redux';
 
 class GreetMessage extends Component{
   render(){
-    var greet = "Hello ______!";
+    var greet = "שלום ______!";
     if(this.props.platform){
-      greet = "Hello "+this.props.platform.title+"!";
+      greet = "שלום "+this.props.platform.title+"!";
     }
     return (
       <h1 className="greet-message">

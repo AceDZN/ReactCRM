@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AceDZN/ReduxGulpStarterKit.svg?branch=master)](https://travis-ci.org/AceDZN/ReduxGulpStarterKit)
+[![Build Status](https://travis-ci.org/AceDZN/ReactCRM.svg?branch=master)](https://travis-ci.org/AceDZN/ReactCRM)
 # ReactCRM
 React/Redux/Gulp/FireBase
 
